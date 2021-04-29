@@ -7,7 +7,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About For This Structure
+
+# Domain Driven Design in Laravel DDD
+
+Wikipedia Llink https://en.wikipedia.org/wiki/Domain-driven_design
+
+## About This Structure
 
 This Structure for build larger-than-average Laravel applications and maintain them for years to come.
 
