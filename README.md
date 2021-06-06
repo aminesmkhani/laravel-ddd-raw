@@ -12,6 +12,11 @@
 
 Wikipedia Llink https://en.wikipedia.org/wiki/Domain-driven_design
 
+
+# Course Link in Youtube
+
+Larave DDD : https://www.youtube.com/watch?v=8f5_zoPlz18&list=PLgCpnijCf5zgwTKdbxX1Z96H-ILK-D5v9
+
 ## About This Structure
 
 This Structure for build larger-than-average Laravel applications and maintain them for years to come.
